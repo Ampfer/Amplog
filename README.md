@@ -1,0 +1,2 @@
+# amplog
+Inventário
